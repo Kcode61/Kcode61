@@ -19,6 +19,6 @@ Meu objetivo é evoluir constantemente como desenvolvedor e criar soluções que
 
 ## 📞 Contato
 - **Email:** kyocode61@gmail.com
-- **Portfólio:** https://portfolio-kauan.pages.dev/
+- **Portfólio:**
 
 ---
