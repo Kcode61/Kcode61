@@ -36,11 +36,7 @@ criando interfaces, APIs REST e aplicações completas.
 ---
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kcode61&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kcode61&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Kcode61&theme=transparent&hide_border=true)
 
 ---
 
