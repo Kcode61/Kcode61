@@ -35,11 +35,13 @@ criando interfaces, APIs REST e aplicações completas.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Estatísticas
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kcode61&theme=transparent&hide_border=true)
 
 ---
 
 ## 📫 Contato
 
-[GitHub](https://github.com/Kcode61) • [Portfolio](https://portfolio-kcode.pages.dev)
+Github: https://github.com/Kcode61
+Email: kyocode61@gmail.com
+Portfólio: https://portfolio-kauan-beta.vercel.app/
